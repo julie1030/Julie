@@ -7,7 +7,7 @@
 #  ✨ Mes compétences les plus surprenantes:
 ### Raconter n'importe quoi tout en restant très sérieuse
 ### Retrouver les objets égarés à la maison en moins d'une minute alors que les 4 males qui vivent avec moi pourraient y passer trois heures 
-### Dans mon CV de comédienne (entre autres grands rôles): interpréter l'arbre n°2. Très grand rôle de composition mélangeant immobilisme et impression de mouvement du vivant
+### Dans mon CV de comédienne, entre autres grands rôles, j'ai eu l'apportunité d'interpréter l'arbre n°2. (Très grand rôle de composition mélangeant immobilisme et impression de mouvement du vivant)
 #  ✨ Mon top 3 des meilleures choses au monde
 ### l'eau chaude
 ### bailler bruyemment
@@ -17,9 +17,9 @@
 #  ✨ Mes peurs
 ### 
 #  ✨ Je suis impatiente de:
+### - commencer à travailler dans une entreprise
 ### Une photo de notre promo
-
-#  ✨ Les trois choses les plus appréciable quand on travaille en équipe:
+#  ✨ Les trois choses les plus appréciables quand on travaille en équipe:
 ### 
 ![](https://github.com/julie1030/READMEPLEASE.md/blob/85fc2b03599b713aaf77a07bdf9a568f40622fe3/IMG_0145.jpg)
 #  ✨ Mon gif préféré
