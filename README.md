@@ -3,7 +3,7 @@
 ---
 - - -
 #  ✨ Qui suis-je?
-* Je suis une jeune femme de deux fois 20 ans et de 155cm de hauteur. Mes activités se partagent entre ma vie de maman, un amoureux, des amis avec qui je partage la passion du théatre. Je suis une hypersensible, émotionnelle et sensorielle. Pas question de me faire manger sur une ardoise, de croquer sa fourchette devant-moi ou de me servir un cava qui a été ouverte la veille. Je n'irai jamais non plus voir un film d'horreur avec vous. Bref, vous êtes prévenu, je suis un peu particulière mais n'ayez crainte, je suis une vraie gentille, j'adore que tout le monde se sente bien.Je suis très sociable et je me retrouve régulièrement à "parler à un chien avec un chapeau". Mes amis disent de moi que je suis quelqu'un de calme et posé mais intérieurement c'est tout l'inverse !
+<span style="color:blue">Je suis une jeune femme de deux fois 20 ans et de 155cm de hauteur. Mes activités se partagent entre ma vie de maman, un amoureux, des amis avec qui je partage la passion du théatre. Je suis une hypersensible, émotionnelle et sensorielle. Pas question de me faire manger sur une ardoise, de croquer sa fourchette devant moi ou de me servir du champagne si la bouteille a été ouverte la veille. Je n'irai jamais non plus voir un film d'horreur avec vous. Bref, vous êtes prévenu, je suis un peu particulière mais n'ayez crainte, je suis une vraie gentille, j'adore que tout le monde se sente bien.Je suis très sociable et je me retrouve régulièrement à "parler à un chien avec un chapeau". Mes amis disent de moi que je suis quelqu'un de calme et posé mais intérieurement c'est tout l'inverse ! </span>
 #  ✨ Mes compétences les plus surprenantes:
 ### Raconter n'importe quoi tout en restant très sérieuse
 ### Retrouver les objets égarés à la maison en moins d'une minute alors que les 4 males qui vivent avec moi pourraient y passer trois heures 
@@ -13,7 +13,7 @@
 ### bailler bruyemment
 ### rêver que je vole (fly not rob)
 #  ✨ Mes objectifs chez BeCode
-### 
+### Créer un système de Chat 
 #  ✨ Mes peurs
 ### 
 #  ✨ Je suis impatiente de:
