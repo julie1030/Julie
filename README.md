@@ -15,12 +15,16 @@
 #  ✨ Mes objectifs chez BeCode
 ### Créer un système de Chat 
 #  ✨ Mes peurs
-### 
+### - Devenir aveugle/ muette/ sourde
+### - Perdre les gens que j'aime
 #  ✨ Je suis impatiente de:
 ### - commencer à travailler dans une entreprise
 ### Une photo de notre promo
 #  ✨ Les trois choses les plus appréciables quand on travaille en équipe:
-### 
+### - Le sourire
+### - La bienveillance
+### - L'écoute 
 ![](https://github.com/julie1030/READMEPLEASE.md/blob/85fc2b03599b713aaf77a07bdf9a568f40622fe3/IMG_0145.jpg)
-#  ✨ Mon gif préféré
-### 
+#  ✨ Mes gifs préférés
+https://giphy.com/gifs/fresh-prince-of-bel-air-dancing-carlton-NAchXiVxD85j2
+https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif
